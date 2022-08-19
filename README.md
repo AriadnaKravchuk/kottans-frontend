@@ -22,3 +22,14 @@
 Flexbox я вже пробувала вчити, як раз по уроках фрилансера по життю. :sweat_smile: Тепер познайомилася ще і з Grid Layout.
 
 [Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/tree/main/task_responsive_web_design)
+
+## HTML-CSS-Popup
+:bird:
+[Demo](https://ariadnakravchuk.github.io/HTML-CSS-Popup/) | [Code Base](https://github.com/AriadnaKravchuk/HTML-CSS-Popup)
+
+## JS Basics
+JavaScript нова мова програмування для мене, але у мене є навчальний досвід з іншими мовами, тому вчитися не дуже складно.
+
+При проходженні завдань найбільше мою увагу притягнуло використання двох пробілів для відступів. Мені здається, я можу есе написати наскільки мені боляче на це дивитися... :see_no_evil: Сподіваюсь, що мене не будуть просити використовувати їх замість чотирьох.
+
+[Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/tree/main/task_js_basics)
