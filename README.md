@@ -24,6 +24,8 @@ Flexbox я вже пробувала вчити, як раз по уроках �
 [Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/tree/main/task_responsive_web_design)
 
 ## HTML-CSS-Popup
+В цілому мені подобається зроблена робота, особливо с тими знаннями які є зараз. У майбутніх роботах мені хочеться удосконалити використання БЕМ методології та Grid Layout.
+
 :bird:
 [Demo](https://ariadnakravchuk.github.io/HTML-CSS-Popup/) | [Code Base](https://github.com/AriadnaKravchuk/HTML-CSS-Popup)
 
