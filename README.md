@@ -37,3 +37,10 @@ JavaScript нова мова програмування для мене, але 
 При проходженні завдань найбільше мою увагу притягнуло використання двох пробілів для відступів. Мені здається, я можу есе написати наскільки мені боляче на це дивитися... :see_no_evil: Сподіваюсь, що мене не будуть просити використовувати їх замість чотирьох.
 
 [Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/tree/main/task_js_basics)
+
+## DOM
+Найскладніше було придумати дизайн та тематику сторінки. В якісь час хотілося пропустити це завдання, бо було 0 ідей, але все-таки я зробила його.
+
+[Demo](https://ariadnakravchuk.github.io/DOM) | [Code Base](https://github.com/AriadnaKravchuk/DOM)
+
+[Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/tree/main/task_js_dom)
