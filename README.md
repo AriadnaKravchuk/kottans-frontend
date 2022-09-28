@@ -44,3 +44,13 @@ JavaScript нова мова програмування для мене, але 
 [Demo](https://ariadnakravchuk.github.io/DOM) | [Code Base](https://github.com/AriadnaKravchuk/DOM)
 
 [Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/tree/main/task_js_dom)
+
+## Building a Tiny JS World
+
+Done
+
+## Object Oriented JS
+
+[Demo](https://ariadnakravchuk.github.io/frontend-nanodegree-arcade-game/) | [Code Base](https://github.com/AriadnaKravchuk/frontend-nanodegree-arcade-game)
+
+[Screenshots of completed tasks](https://github.com/AriadnaKravchuk/kottans-frontend/blob/main/task_js_oop/codewars.png)
